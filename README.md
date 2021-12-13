@@ -15,9 +15,11 @@ If you are short on time, be sure to make it through these items:
 
 ## Appendix
 
-Once you are familiar with file input/output in Python, CSV's, and JSONs, move on to the appendix.  
+Once you are familiar with file input/output in Python, CSV's, and JSONs, move on to the appendix.
 
 In it you will find even another opportunity to practice JSON's in the **Exploring and Transforming JSON Schemas** lessons.  
+
+You will also find a lab to practice building functions.  If you are uncomfortable with the syntax required to build a function, use the `Building a Calculator` lab to level up your skills. 
 
 You will also find lessons that go into more detail about XML. XML is less important than JSON to the scope of the program, but important to know about for webscraping and general familiarity with common data structures.
 
